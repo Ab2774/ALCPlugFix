@@ -1,5 +1,5 @@
 # ALCPlugFix 
-[![Release](https://img.shields.io/badge/download-release-blue.svg)]https://github.com/Ab2774/ALCPlugFix/releases)
+[![Release](https://img.shields.io/badge/download-release-blue.svg)](https://github.com/Ab2774/ALCPlugFix/releases)
 
 Forked from goodwin's [ALCPlugFix](https://github.com/goodwin/ALCPlugFix)  
 
